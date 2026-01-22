@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sistema-de-Gest-o-de-Ordens-de-Servi-o.iml" filepath="$PROJECT_DIR$/.idea/Sistema-de-Gest-o-de-Ordens-de-Servi-o.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaDeGestao/SistemaDeGestao.iml" filepath="$PROJECT_DIR$/SistemaDeGestao/SistemaDeGestao.iml" />
+    </modules>
+  </component>
+</project>
